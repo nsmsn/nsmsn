@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nick (@nsmsn)
+- 👀 I’m interested in user interface design, digital accessibility, and personal websites (IndieWeb).
+- 🌱 I’m currently learning about web components, modern CSS, and data visualization.
+- 💞️ I’m looking to collaborate on anything that helps newcomers express themselves and build an online presence.
+- 📫 Email me at nick@nicksimson.com, or find me on Mastodon: @nsmsn@mastodon.design
