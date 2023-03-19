@@ -1,14 +1,17 @@
 # 👋 Hi, I’m Nick (@nsmsn)
 
-Designer (Graphic, web and interaction)
+Designer (graphic, web and interaction)
 
-Knoxville 📍 Tennessee
+## Location 📍
+- Tennessee 🥃 (2010 - Now)
+- Arizona 🌵 (2003 - 2009)
+- Central New York 🐄 (1987-2002)
 
-Previous locations:
-- Arizona 🌵
-- Central New York 🐄
 
-Not looking for additional work right now, but open to future collaboration. 🔮
+
+## Contact 🔭
+
+I'm not looking for additional work right now, but open to future collaboration. 🔮
 
 - 📫 Email me at nick@nicksimson.com
 - 🦣 Find me on Mastodon: https://mastodon.design/@nsmsn
