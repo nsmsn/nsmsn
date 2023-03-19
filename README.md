@@ -2,14 +2,14 @@
 
 Designer (graphic, web and interaction)
 
-## Location 📍
-- Tennessee 🥃 (2010 - Now)
-- Arizona 🌵 (2003 - 2009)
-- Central New York 🐄 (1987-2002)
+## 📍 Location 
+- 🥃 Tennessee (2010 - Now)
+- 🌵 Arizona (2003 - 2009)
+- 🐄 Central New York (1987-2002)
 
 
 
-## Contact 🔭
+## 🔭 Contact
 
 I’m not looking for additional work right now, but open to future collaboration. 🔮
 
