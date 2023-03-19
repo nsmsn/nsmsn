@@ -11,7 +11,7 @@ Designer (graphic, web and interaction)
 
 ## Contact 🔭
 
-I'm not looking for additional work right now, but open to future collaboration. 🔮
+I’m not looking for additional work right now, but open to future collaboration. 🔮
 
 - 📫 Email me at nick@nicksimson.com
 - 🦣 Find me on Mastodon: https://mastodon.design/@nsmsn
