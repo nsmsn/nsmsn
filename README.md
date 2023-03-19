@@ -1,13 +1,15 @@
 # 👋 Hi, I’m Nick (@nsmsn)
 
-I’m interested in user interface design, digital accessibility, and personal websites (IndieWeb).
+Designer (Graphic, web and interaction)
 
-I’m currently learning about web components, data visualization, and new features arriving in CSS.
+Knoxville 📍 Tennessee
 
-I’m looking to collaborate on anything that helps newcomers build an online presence or contribute to open source.
+Previous locations:
+- Arizona 🌵
+- Central New York 🐄
 
-- 📫 Email me at nick@nicksimson.com
-- 🦣 Find me on Mastodon: https://mastodon.design/@nsmsn
-- 🔗 Or elsewhere: https://nicksimson.com/links
+📫 Email me at nick@nicksimson.com
+🦣 Find me on Mastodon: https://mastodon.design/@nsmsn
+🔗 Elsewhere: https://nicksimson.com/links
 
-
+Not looking for additional work right now, but open to future collaboration. 🔮
