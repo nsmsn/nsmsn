@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Nick (@nsmsn)
 
 Designer (graphic, web, and interaction)
+
 Knoxville 📍 Tennessee 
 
 I’m not looking for additional work right now, but open to future collaboration. 🔮
