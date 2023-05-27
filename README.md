@@ -2,7 +2,7 @@
 
 Designer (graphic, web, and interaction)
 
-Knoxville 📍 Tennessee 
+Albuquerque 📍 New Mexico
 
 I’m not looking for additional work right now, but open to future collaboration. 🔮
 
