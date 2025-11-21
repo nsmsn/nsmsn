@@ -4,7 +4,4 @@ Designer (graphic, web, and interaction)
 
 Albuquerque 📍 New Mexico
 
-- 📫 Email me at nick@nicksimson.com
-- 🦣 Find me on Mastodon: https://social.lol/@nsmsn
-- 🎧 Or [Libre.fm](https://libre.fm/user/nsmsn)
-- 🔗 Elsewhere: https://nicksimson.com/links
+<a href="https://libre.fm/user/nsmsn"><img src="https://libre.fm/user/nsmsn/now" width="320" height="60" alt="Nick's latest tracks on Libre.fm"></a>
